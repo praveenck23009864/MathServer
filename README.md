@@ -121,9 +121,11 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
+![Screenshot 2023-11-15 164010](https://github.com/praveenck23009864/MathServer/assets/141472050/994b339b-c443-4714-9256-b689fc56898b)
 
 
 ## HOMEPAGE:
+![Screenshot 2023-11-15 163940](https://github.com/praveenck23009864/MathServer/assets/141472050/503b9a03-6d0e-41cd-a4b4-9854121b4ab1)
 
 
 ## RESULT:
